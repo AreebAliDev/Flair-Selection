@@ -4,7 +4,7 @@ You will find more than 500 flairs available to pick here, organized by class an
 
 ![Image](https://i.imgur.com/ZnZqMLl.png)
 
-###Once you select a flair, please follow the instructions below.
+### Once you select a flair, please follow the instructions below.
 
 ![Image](https://i.imgur.com/FVheQga.png)
 
