@@ -1,6 +1,6 @@
 layout: page
 title: "Redesign Flair Selection Page"
-permalink: /Redesign/
+permalink: /redesign/
 
 ## Welcome to r/GrandOrder's Reddit Redesign Flair Selection Page
 
