@@ -2,8 +2,6 @@ layout: page
 title: "Holo Grand Order Flair Selection Page"
 permalink: /HoloGO/
 
----
-
 ## Welcome to r/GrandLive's Flair Selection Page
 
 You will find a flair to represent your favorite HoloTalent here!
