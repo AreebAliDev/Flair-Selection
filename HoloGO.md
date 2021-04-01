@@ -1,8 +1,8 @@
----
-title: Holo Grand Order Flair Selection
 layout: page
-filename: HoloGO.md
---- 
+title: "Holo Grand Order Flair Selection Page"
+permalink: /Flair-Selection/HoloGO/
+
+---
 
 ## Welcome to r/GrandLive's Flair Selection Page
 
