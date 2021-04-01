@@ -1,6 +1,6 @@
 layout: page
 title: "Holo Grand Order Flair Selection Page"
-permalink: /Flair-Selection/HoloGO/
+permalink: /HoloGO/
 
 ---
 
