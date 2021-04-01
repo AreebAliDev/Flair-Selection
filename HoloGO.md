@@ -1,3 +1,9 @@
+---
+title: Holo Grand Order Flair Selection
+layout: page
+filename: HoloGO.md
+--- 
+
 ## Welcome to r/GrandLive's Flair Selection Page
 
 You will find a flair to represent your favorite HoloTalent here!
