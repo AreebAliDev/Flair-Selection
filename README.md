@@ -6,7 +6,11 @@ You will find more than 500 flairs available to pick here, organized by class an
 
 ### Once you select a flair, please follow the instructions below.
 
-![Image](https://i.imgur.com/FVheQga.png)
+![Image](https://i.imgur.com/gOjAwuQ.png) 
+
+### It should look like this:
+
+![Image](https://i.imgur.com/ImGQQyw.png)    ![Image](https://i.imgur.com/b78mInN.png)
 
 ### Best Kouhais
 
