@@ -1,6 +1,6 @@
 ## Welcome to r/GrandOrder's Flair Selection Page
 
-You will find more than 500 flairs available to pick here, organized by class and version. 
+You will find more than 500 flairs available to pick here, organized by class and version. Flairs that have a green highlight behind them will be visible on New Reddit and Mobile. 
 
 ![Image](https://i.imgur.com/ZnZqMLl.png)
 
